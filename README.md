@@ -11,7 +11,7 @@ The minimap is streamed with the code from https://github.com/ArduousDev/MiniMap
 
 I’m releasing the files for the community to use and modify/edit. If you want to change the map, add logos or do whatever… you can! In the github there is a folder called DDS and in here are the separate files for you to edit. You can use PAINT.NET to edit the DDS files and save these files. Use OPENIV to swap the textures for the .ytd files. Use the DDS format instead of PNG, because PNG files don’t get the best quality in game.
 
-If you want to use the nearest-postal script https://forum.cfx.re/t/release-nearest-postal-script/293511/11 , you can use the oulsen_satmap_postals.json which is included in the Github. The nearest-postal script is not included at this time, but you can download that separately. 
+If you want to use the nearest-postal script https://forum.cfx.re/t/release-nearest-postal-script/ , you can use the oulsen_satmap_postals.json which is included in the Github. The nearest-postal script is not included at this time, but you can download that separately. 
 
 ## Install
 Upload oulsen_satmap to your server and start it manually or add it to your server.cfg
