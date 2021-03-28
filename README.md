@@ -1,6 +1,5 @@
 <h1 align="center">OULSEN</h1>
 <h3 align="center">FIVEM Satellite map with custom postals</h3>
-Hello there!
 
 I never intended to release this postal-map to the public but because someone somehow got the files for it and is selling it for money, I feel that I have no other option than to release it to the community. 
 
