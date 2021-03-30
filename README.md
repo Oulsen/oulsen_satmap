@@ -15,7 +15,7 @@ If you want to use the nearest-postal script https://forum.cfx.re/t/release-near
 ## Install
 1. Upload oulsen_satmap folder to your resources folder on your server
 2. Add oulsen_satmap to the server.cfg file (start or ensure).
-3. Start the resource or reboot your server
-4. Optional, change the map to the nogrid version. Just copy the files in the NoGrid folder and past/overwrite the files in the stream folder of the resource.
+3. Optional, change the map to the nogrid version. Just copy the files in the NoGrid folder and paste/overwrite these files in the stream folder of the resource.
+4. Start the resource or reboot your server
 
 [Correction] 29-03-2021 The was not created with the ones fro DieLikeKane , it was created with the high resolution sat map from this forum post: https://gtaforums.com/topic/595113-high-resolution-maps-satellite-roadmap-atlas/
